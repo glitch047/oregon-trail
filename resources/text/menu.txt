@@ -1,0 +1,6 @@
+Travel the trail
+Learn about the trail
+See the high scores
+Choose your profession
+Exit
+
